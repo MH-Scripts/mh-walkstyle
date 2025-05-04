@@ -6,7 +6,7 @@ games {'gta5'}
 
 author 'MaDHouSe'
 description 'MH - Walk Styles'
-version '1.0.0'
+version '1.0.1'
 
 shared_scripts {
     'config.lua',
